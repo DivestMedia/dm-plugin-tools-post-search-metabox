@@ -3,7 +3,7 @@
 	"description": "Plugin Tool for Wordpress Metabox Post Searching",
     "version": "1.0.0",
     "dist": {
-        "url": "http://www.smarty.net/files/Smarty-3.1.7.zip",
+        "url": "https://github.com/ralphjesy12/dm-plugin-tools-post-search-metabox/archive/1.0.0.zip",
         "type": "zip"
     },
     "authors": [
